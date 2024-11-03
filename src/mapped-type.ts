@@ -1,4 +1,5 @@
 {
+    //mapped type
     //map in javascript
     const arrayOfNumber = [21, 45, 78, 32, 90];
     const arrayOfString: string[] = arrayOfNumber.map(number => number.toString());
